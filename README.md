@@ -10,7 +10,7 @@ Model-based Predictions: The backend uses a trained machine learning model to cl
 # Installation
 1. Clone the repository:
    <br>
-git clone https://github.com/kratikaDeshlehra/SMS-Spam-Classifier.git
+git clone https://github.com/tanu91112/SMS-Spam-Classifier.git
 <br>
 2. Navigate to the project directory:
    <br>
