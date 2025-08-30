@@ -46,6 +46,13 @@ pip install -r requirements.txt
 
 4. **Run the application**  
 streamlit run app.py
+=
+<table>
+  <tr>
+    <td><img width="736" height="745" alt="Screenshot 2025-08-30 162359" src="https://github.com/user-attachments/assets/0cb1246a-0dc8-41e9-b486-04b5249ddef2" />
+</td>
+  </tr>
+</table>
 
 
 ---
@@ -59,6 +66,12 @@ streamlit run app.py
 ## 📊 Performance
 - High accuracy in spam detection ensured by advanced text preprocessing and TF-IDF feature extraction combined with optimized ML algorithms.
 
+<table>
+  <tr>
+    <td><img width="627" height="767" alt="Screenshot 2025-08-30 162130" src="https://github.com/user-attachments/assets/6896fa76-9e4c-4587-9563-361d791915fa" /></td>
+    <td><img width="720" height="770" alt="Screenshot 2025-08-30 162051" src="https://github.com/user-attachments/assets/e2d0f69a-f83c-4292-89b5-b2046fd454bf" /></td>
+  </tr>
+</table>
 ---
 ## 🤝 Contributing
 Contributions are welcome:
